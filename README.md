@@ -24,4 +24,7 @@ Some of these functions are modified so that they can accomodate Iranian music s
 
 The following function in MusicImprovisor repository:
 midiProcess.m
+myNotesProperties.m
+printableTable.m
+processAllNotes.m
 
